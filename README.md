@@ -1,3 +1,4 @@
 # Video Player
 
-This is simple videoplayer using js.
+This is simple videoplayer using js..
+
